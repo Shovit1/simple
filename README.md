@@ -1,1 +1,1 @@
-My first page
+This is a simple example.
